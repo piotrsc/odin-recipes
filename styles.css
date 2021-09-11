@@ -1,5 +1,5 @@
 .header {
-    font-family: cursive;
+    font-family: cursive, serif;
     font-size: 75px;
     background-color: rgb(155, 24, 155);
     color: #ffffff;
@@ -13,7 +13,7 @@ img {
 }
 
 li {
-    font-family: cursive;
+    font-family: cursive, serif;
     font-size: 30px;
     text-align: center;
 }
