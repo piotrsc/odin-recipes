@@ -1,0 +1,19 @@
+.header {
+    font-family: cursive;
+    font-size: 75px;
+    background-color: rgb(155, 24, 155);
+    color: #ffffff;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+}
